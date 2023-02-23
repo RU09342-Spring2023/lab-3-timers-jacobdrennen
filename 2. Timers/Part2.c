@@ -91,5 +91,3 @@ __interrupt void Timer1_B0_ISR(void)
 
     // @TODO You can toggle the LED Pin in this routine and if adjust your count in CCR0.
 }
-
-
